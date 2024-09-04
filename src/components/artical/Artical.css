@@ -1,0 +1,17 @@
+.artical{
+    width: 67%;
+    height: 590px;
+    background-color: rgb(212, 120, 148);
+    float: left;
+    display: flex;
+    padding: 20px;
+}
+
+
+
+.colorB {
+    background-color: rgb(203, 138, 223);
+  }
+  .counting{
+    width: 300px;
+  }
